@@ -1,6 +1,6 @@
 ### Clone of slack
 
-*Features such as
+# Features such as
 1. React Js
 2. Google Authentications(Firebase)
 3. firebase real-time database
